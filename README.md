@@ -1,2 +1,3 @@
-# Machine-Learning-And-Artificial-Intelegence
-AI-ML training and testing
+# Machine-Learning-And-Artificial-Intelligence
+AI-ML training and testing using Python
+I learnt this in Udemy
